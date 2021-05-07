@@ -1,2 +1,0 @@
-D:\project\Learn_C\链表\Debug\链表.exe
-D:\project\Learn_C\链表\Debug\链表.pdb
