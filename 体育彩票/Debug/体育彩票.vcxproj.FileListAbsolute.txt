@@ -1,0 +1,2 @@
+D:\project\Learn_C\体育彩票\Debug\体育彩票.exe
+D:\project\Learn_C\体育彩票\Debug\体育彩票.pdb

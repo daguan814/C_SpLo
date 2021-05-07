@@ -1,0 +1,19 @@
+﻿  parking.CPP
+C:\Users\o\Desktop\parking.CPP(73,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\o\Desktop\parking.CPP(83,14): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+C:\Users\o\Desktop\parking.CPP(83,14): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\Users\o\Desktop\parking.CPP(83,14): message : 缺失的可变参数 2 为格式字符串“%s”所需
+C:\Users\o\Desktop\parking.CPP(83,14): message : 此参数用作缓冲区大小
+C:\Users\o\Desktop\parking.CPP(92,20): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+C:\Users\o\Desktop\parking.CPP(97,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\o\Desktop\parking.CPP(94,14): error C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\o\Desktop\parking.CPP(115,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\o\Desktop\parking.CPP(128,20): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+C:\Users\o\Desktop\parking.CPP(139,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\o\Desktop\parking.CPP(152,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\o\Desktop\parking.CPP(131,14): error C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\o\Desktop\parking.CPP(163,14): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+C:\Users\o\Desktop\parking.CPP(163,14): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\Users\o\Desktop\parking.CPP(163,14): message : 缺失的可变参数 2 为格式字符串“%s”所需
+C:\Users\o\Desktop\parking.CPP(163,14): message : 此参数用作缓冲区大小
+C:\Users\o\Desktop\parking.CPP(182,16): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据

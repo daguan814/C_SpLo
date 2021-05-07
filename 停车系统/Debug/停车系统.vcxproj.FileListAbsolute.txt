@@ -1,0 +1,2 @@
+D:\project\Learn_C\停车系统\Debug\停车系统.exe
+D:\project\Learn_C\停车系统\Debug\停车系统.pdb
