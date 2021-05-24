@@ -1,0 +1,24 @@
+﻿  main.c
+D:\project\Learn_C\排队\main.c(208,7): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\project\Learn_C\排队\main.c(222,12): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\project\Learn_C\排队\main.c(244,11): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\project\Learn_C\排队\main.c(244,11): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\project\Learn_C\排队\main.c(244,11): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\project\Learn_C\排队\main.c(244,11): message : 此参数用作缓冲区大小
+D:\project\Learn_C\排队\main.c(246,11): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+D:\project\Learn_C\排队\main.c(248,11): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+D:\project\Learn_C\排队\main.c(250,11): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+D:\project\Learn_C\排队\main.c(252,11): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+D:\project\Learn_C\排队\main.c(254,11): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+D:\project\Learn_C\排队\main.c(256,127): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\project\Learn_C\排队\main.c(240,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\project\Learn_C\排队\main.c(269,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\project\Learn_C\排队\main.c(316,17): error C2088: “>=”: 对于 struct 非法
+D:\project\Learn_C\排队\main.c(335,12): warning C4477: “printf”: 格式字符串“%S”需要类型“unsigned short *”的参数，但可变参数 2 拥有了类型“char *”
+D:\project\Learn_C\排队\main.c(335,12): message : 请考虑在格式字符串中使用“%hS”
+D:\project\Learn_C\排队\main.c(335,12): message : 请考虑在格式字符串中使用“%TS”
+D:\project\Learn_C\排队\main.c(344,4): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\project\Learn_C\排队\main.c(379,4): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\project\Learn_C\排队\main.c(393,9): error C2086: “int choose”: 重定义
+D:\project\Learn_C\排队\main.c(380): message : 参见“choose”的声明
+D:\project\Learn_C\排队\main.c(316): fatal error C1075: “{”: 未找到匹配令牌
